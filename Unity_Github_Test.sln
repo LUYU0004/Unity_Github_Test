@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{A5795FE4-5321-A6A0-0A37-A5DB6D635717}") = "Unity_Github_Test", "Assembly-CSharp.csproj", "{A83A12D9-83DD-21FC-3F3A-5BEA5757C7B5}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Github_Test", "Assembly-CSharp.csproj", "{A83A12D9-83DD-21FC-3F3A-5BEA5757C7B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
